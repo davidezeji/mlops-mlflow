@@ -1,4 +1,4 @@
-# MLflow Model Tracking Example
+# MLflow Model Tracking 
 
 This repository demonstrates how to use MLflow for tracking machine learning experiments and model management. It provides examples of training multiple regression models and logging their metrics and artifacts using MLflow.
 
