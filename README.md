@@ -62,3 +62,12 @@ Here you can:
 - Download model artifacts
 - Track model versions
 
+## Project photos
+* Uploaded multiple regression models (Linear Regression, Decision Tree, Random Forest):
+![alt text](<Screenshot 2025-05-26 at 2.33.04 PM.png>)
+* Model metrics 
+![alt text](<Screenshot 2025-05-26 at 2.35.59 PM.png>)
+* Registered Model
+![alt text](<Screenshot 2025-05-26 at 2.37.41 PM.png>)
+
+
